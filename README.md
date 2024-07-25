@@ -1,4 +1,4 @@
-![Auth0.swift](https://cdn.auth0.com/website/sdks/banners/swift-banner.png)
+  ![Auth0.swift](https://cdn.auth0.com/website/sdks/banners/swift-banner.png)
 
 ![Version](https://img.shields.io/cocoapods/v/Auth0.svg?style=flat)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/auth0/Auth0.swift/main.yml?style=flat)
